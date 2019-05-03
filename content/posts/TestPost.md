@@ -3,7 +3,7 @@ title: "TestPost"
 date: 2019-05-03T01:15:16+02:00
 draft: true
 summary: "Lorem ipsum"
-frontimage: "http://placekitten.com/800/800"
+frontimage: "http://placekitten.com/1920/800"
 
 ---
 

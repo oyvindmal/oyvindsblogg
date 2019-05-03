@@ -1,6 +1,12 @@
 {{ define "main" }}
- <h1>{{.Title}}</h1>
- <img src="{{.Params.frontimage}}" alt="">
+<div class="mdc-card">
+        <div class="mdc-card__media mdc-card__media--16-9" style="background-image: url({{.Params.frontimage}});"></div>
 
- {{.Content}}
+        <div style="padding-left:10px;">
+                <h1 class="mdc-typography mdc-typography--headline3">{{.Title}}</h1>
+                <p style="font-weight:bold;">{{.Params.summary}}</p>
+                {{.Content}}
+            </div>
+
+</div>
 {{ end }}

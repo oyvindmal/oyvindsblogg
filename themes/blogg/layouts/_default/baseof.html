@@ -2,6 +2,13 @@
 <html>
     {{- partial "head.html" . -}}
     <body>
+            <header class=" mdc-top-app-bar mdc-top-app-bar--fixed">
+                    <div class="mdc-top-app-bar__row">
+                      <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                        <span class="mdc-top-app-bar__title">Øyvind Malin - Blogg</span> </section>
+                    
+                    </div>
+                  </header>
         {{- partial "header.html" . -}}
         <div id="content">
         {{- block "main" . }}{{- end }}

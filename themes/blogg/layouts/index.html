@@ -1,9 +1,34 @@
 {{ define "main" }}
-{{ range .Pages }}
-    <article>
-        <img src="{{.Params.frontimage}}" alt="">
-      <h2><a href="{{.Permalink}}">{{ .Title }}</a></h2>
-      {{ .Params.summary}}
-    </article>
-  {{ end }}
+<div class="mdc-layout-grid">
+        <div class="mdc-layout-grid__inner">
+    
+        {{ range .Pages }}
+ 
+            <div class="mdc-layout-grid__cell--span-3">
+                    <div class="mdc-card">
+                            <div class="mdc-card__primary-action">
+                              <div class="mdc-card__media mdc-card__media--square" style="background:url({{.Params.frontimage}})">
+                                
+                              </div>
+                        
+                            </div>
+                            <div style="padding-left:10px;">
+                                <h2 class="mdc-typography mdc-typography--headline6">{{.Title}}</h2>
+                                <p>{{.Params.summary}}</p>
+                            </div>
+                            <div class="mdc-card__actions">
+                              <div class="mdc-card__action-buttons">
+                                <a href="{{.Permalink}}"class="mdc-button mdc-card__action mdc-card__action--button">
+                                  <span class="mdc-button__label">Les mer</span>
+                                </a>
+                               
+                              </div>
+                              
+                            </div>
+                          </div>
+            </div>
+        {{ end }}
+        </div>
+      </div>
+
 {{ end }}
