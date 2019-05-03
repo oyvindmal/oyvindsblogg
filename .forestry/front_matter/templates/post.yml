@@ -15,3 +15,5 @@ fields:
 - type: text
   name: frontimage
   label: Forsidebilde
+pages:
+- content/posts/testpost-fra-forestry.md
