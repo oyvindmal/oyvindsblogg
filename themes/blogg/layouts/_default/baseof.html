@@ -2,15 +2,15 @@
 <html>
     {{- partial "head.html" . -}}
     <body>
-            <header class=" mdc-top-app-bar mdc-top-app-bar--fixed">
+            <header class="mdc-top-app-bar mdc-top-app-bar--fixed">
                     <div class="mdc-top-app-bar__row">
                       <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
-                        <span class="mdc-top-app-bar__title">Øyvind Malin - Blogg</span> </section>
+                        <h1><a href="/" class="navbarlink">Øyvind Malin - Blogg </a></h1></section>
                     
                     </div>
-                  </header>
+            </header>
         {{- partial "header.html" . -}}
-        <div id="content">
+        <div id="content" style="padding-top:50px;">
         {{- block "main" . }}{{- end }}
         </div>
         {{- partial "footer.html" . -}}
