@@ -1,7 +1,7 @@
 ---
 title: "TestPost2"
 date: 2019-05-03T01:16:15+02:00
-draft: true
+draft: false
 summary: "Lorem ipsum"
 frontimage: "http://placekitten.com/800/800"
 
