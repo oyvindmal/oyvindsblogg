@@ -1,0 +1,12 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: summary
+  label: Ingress
+  config:
+    required: true
+- type: text
+  name: frontimage
+  label: Forsidebilde
