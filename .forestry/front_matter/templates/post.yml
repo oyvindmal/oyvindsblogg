@@ -16,4 +16,5 @@ fields:
   name: frontimage
   label: Forsidebilde
 pages:
+- content/posts/google-lås-opp-ytterdøra.md
 - content/posts/testpost-fra-forestry.md
