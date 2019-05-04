@@ -27,5 +27,4 @@ fields:
   default: now
 pages:
 - content/posts/vi-tester-med-dato.md
-- content/posts/google-lås-opp-ytterdøra.md
 - content/posts/testpost-fra-forestry.md
