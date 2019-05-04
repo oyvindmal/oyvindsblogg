@@ -25,5 +25,3 @@ fields:
     display_utc: 
   label: Date
   default: now
-pages:
-- content/posts/vi-tester-med-dato.md
