@@ -5,3 +5,6 @@ summary = "Smarthus blablabla"
 title = "Google, lås opp ytterdøra"
 
 +++
+
+
+BLABLA BLA SIKKERHET NINJA HAX INNBRUDD
