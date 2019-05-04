@@ -15,6 +15,16 @@ fields:
 - type: text
   name: frontimage
   label: Forsidebilde
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: 
+  label: Date
+  default: now
 pages:
 - content/posts/google-lås-opp-ytterdøra.md
 - content/posts/testpost-fra-forestry.md
