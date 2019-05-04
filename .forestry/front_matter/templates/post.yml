@@ -25,3 +25,5 @@ fields:
     display_utc: 
   label: Date
   default: now
+pages:
+- content/posts/google-lås-opp-ytterdøra.md
