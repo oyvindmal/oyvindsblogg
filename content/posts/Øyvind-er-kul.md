@@ -1,9 +1,7 @@
 ---
-title: "Øyvind Er Kul"
-date: 2019-05-04T21:43:18+02:00
-draft: true
-summary: "Lorem ipsum"
-frontimage: "http://placekitten.com/800/800"
+title: Øyvind Er Kul
+date: 2019-05-04T19:43:18.000+00:00
+summary: Lorem ipsum
+frontimage: http://placekitten.com/800/800
 
 ---
-
