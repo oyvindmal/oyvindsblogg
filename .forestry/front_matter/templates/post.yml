@@ -25,3 +25,5 @@ fields:
     display_utc: 
   label: Date
   default: now
+pages:
+- content/posts/10-tips-for-feilsøking.md
