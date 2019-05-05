@@ -35,6 +35,18 @@ hugo new theme <Ditt tema>
 
 ## Konfigurasjonsendringer
 
+Konfigurajsonen finner du i config.toml. Denne inneholder noen enklere innstillinger for hvordan nettsiden din skal genereres. Som standard inneholder den nesten alt som skal til for å få nettstedet til å fungere, men vi er nødt til å gjøre noen endringer for at alt skal fungere som det skal.
+
+Under "baseURL" skriver du inn adressen nettsiden din skal ha. I mitt tilfelle er dette https://blogg.oyvindmal.no men det vil variere ut fra hvor du skal hoste din nettside.
+
+"languageCode" definerer hvilket språk nettsiden din er på. 
+
+"title" definerer tittelen på nettsiden din. Denne kan du senere gjenbruke i maler. Jeg pleier ikke å bruke denne
+
+Til slutt må du legge til en linje for å definere hvilket tema som skal benyttes. Skriv inn det samme som du gjorde når du opprettet temaet i forrige steg. I mitt tilfelle "blogg"
+
+Den ferdige konfigurasjonsfilen vil da se ut omtrent som dette.
+
 {{< highlight toml "linenos=table, linenostart=1" >}}
 baseURL = "https://blogg.oyvindmal.no/"  
 languageCode = "en-us"  
