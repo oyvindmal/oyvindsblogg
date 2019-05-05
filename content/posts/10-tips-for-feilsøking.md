@@ -7,6 +7,9 @@ title = "10 tips for feilsøking"
 +++
 Denne listen er nummerert, men ikke på noen som helst måte prioritert.
 
-1. Forenkle så mye som mulig
-2. Fjern potensielle feilkilder
-3. 
+1. Ha kontroll
+2. Forenkle så mye som mulig
+3. Fjern potensielle feilkilder
+4. Bytt/forsøk annet utstyr om du kan  
+   Ett viktig steg i feil
+5. 
