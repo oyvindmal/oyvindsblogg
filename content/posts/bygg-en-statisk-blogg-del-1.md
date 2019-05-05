@@ -33,7 +33,7 @@ hugo new theme <Ditt tema>
 
 {{< / highlight >}}
 
-## Konfigurasjonsendringer
+## Konfigurasjon
 
 Konfigurajsonen finner du i config.toml. Denne inneholder noen enklere innstillinger for hvordan nettsiden din skal genereres. Som standard inneholder den nesten alt som skal til for å få nettstedet til å fungere, men vi er nødt til å gjøre noen endringer for at alt skal fungere som det skal.
 
