@@ -12,6 +12,7 @@ Jeg kommer ikke til å gå igjennom hvordan man installerer Hugo og Go, da dette
 ## Opprette nettsiden
 {{< highlight Bash >}}
 
+
 hugo new site <Ditt navn>
   
 {{< / highlight >}}
@@ -20,6 +21,7 @@ hugo new site <Ditt navn>
 Det finnes mange [ferdige temaer](https://themes.gohugo.io/) du kan bruke eller ta utgangspunkt i, men i dette tilfellet ønsker jeg å lage mitt eget tema. Jeg kommer ikke til å gå igjennom hvordan temaet på denne bloggen er bygget opp konkret men heller bare gå igjennom hva du får ut av boksen.
 
 {{< highlight Bash>}}
+
 
 hugo new theme <Ditt tema>
   
