@@ -9,6 +9,10 @@ Denne bloggen er basert på Hugo
 
 Jeg kommer ikke til å gå igjennom hvordan man installerer Hugo og Go, da dette varierer fra maskin til maskin. Det finnes en god guide på dette [her](https://gohugo.io/getting-started/installing/)
 
+blabla bla markdown
+
+blabla bla forestry github
+
 ## Opprette nettsiden
 
 {{< highlight Bash >}}
@@ -42,20 +46,24 @@ theme = "blogg"
 
 Archetyper er rett og slett definisjoner av hvordan en bestemt type innhold skal genereres. Denne inneholder all data du ønsker at skal predefineres
 {{< highlight markdown "linenos=table, linenostart=1" >}}
----
+-
+
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 summary: "Lorem ipsum"
 frontimage: "http://placekitten.com/800/800"
 
----
+***
+
 {{< / highlight >}}
+
 ## Innhold
+
 {{< highlight Bash>}}
- 
+
 hugo new posts/min-nye-post.md
- 
+
 {{< / highlight >}}
 
 ## Statiske filer
