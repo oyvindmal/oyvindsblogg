@@ -13,6 +13,18 @@ Jeg kommer ikke til å gå igjennom hvordan man installerer Hugo og Go, da dette
 
 ## Opprette tema
 
-Det finnes mange [ferdige temaer](https://themes.gohugo.io/) du kan bruke eller ta utangspunkt i
+Det finnes mange [ferdige temaer](https://themes.gohugo.io/) du kan bruke eller ta utgangspunkt i, men i dette tilfellet ønsker jeg å bruke 
 
 ## Konfigurasjonsendringer
+
+{{< highlight go "linenos=table,hl_lines=8 15-17,linenostart=1" >}}
+
+baseURL = "[https://blogg.oyvindmal.no/](https://blogg.oyvindmal.no/ "https://blogg.oyvindmal.no/")"
+
+languageCode = "en-us"
+
+title = "blogg.oyvindmal.no"
+
+theme = "blogg"
+
+{{< / highlight >}}
