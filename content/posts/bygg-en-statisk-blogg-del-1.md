@@ -9,7 +9,9 @@ Denne bloggen er basert på Hugo
 
 Jeg kommer ikke til å gå igjennom hvordan man installerer Hugo og Go, da dette varierer fra maskin til maskin. Det finnes en god guide på dette [her](https://gohugo.io/getting-started/installing/)
 
-blabla bla markdown
+Hugo benytter Markdown for å strukturere innholdet. Markdown er ett enkelt markup språk for å definere formatering av innhold. Github har en fin guide som gir en introduksjon til Markdown. Kanskje jeg på ett eller annet tidspunkt skriver en introduksjon til dette på norsk.
+
+[https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/ "https://guides.github.com/features/mastering-markdown/")
 
 I senere deler av denne guiden skal jeg gå igjennom hvordan man kan knytte denne opp mot [Forestry.io](https://www.forestry.io) for å få et redigeringsgrensesnitt i nettleseren.
 
