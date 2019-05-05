@@ -40,6 +40,8 @@ theme = "blogg"
 
 ## Archetypes
 
+Archetyper er rett og slett definisjoner av hvordan en bestemt type innhold skal genereres. Denne inneholder all data du ønsker at skal predefineres
+
 ## Innhold
 
 ## Statiske filer
