@@ -7,7 +7,7 @@ title = "Bygg en statisk blogg - Del 1"
 +++
 Denne bloggen er basert på Hugo
 
-Jeg kommer ikke til å gå igjennom hvordan man installerer Hugo og Go, da dette varierer fra maskin til maskin. Det finnes en god guide på dette [her](https://gohugo.io/getting-started/installing/)
+Jeg kommer ikke til å gå igjennom hvordan man installerer Hugo og Go, da dette varierer på ulike operativsystemer. Det finnes en god guide på dette [her](https://gohugo.io/getting-started/installing/)
 
 Hugo benytter Markdown for å strukturere innholdet. Markdown er ett enkelt markup språk for å definere formatering av innhold. Github har en fin guide som gir en introduksjon til Markdown. Kanskje jeg på ett eller annet tidspunkt skriver en introduksjon til dette på norsk.
 
