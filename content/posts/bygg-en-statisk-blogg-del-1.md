@@ -11,8 +11,7 @@ Jeg kommer ikke til å gå igjennom hvordan man installerer Hugo og Go, da dette
 
 ## Opprette nettsiden
 {{< highlight Bash >}}
-
-
+ 
 hugo new site <Ditt navn>
   
 {{< / highlight >}}
