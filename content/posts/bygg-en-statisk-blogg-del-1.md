@@ -53,6 +53,7 @@ blabla partials
 ## Archetypes
 
 Archetyper er rett og slett definisjoner av hvordan en bestemt type innhold skal genereres. Denne inneholder all data du ønsker at skal predefineres
+
 {{< highlight markdown "linenos=table, linenostart=1" >}}
 -
 
