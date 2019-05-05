@@ -25,3 +25,5 @@ fields:
     display_utc: 
   label: Date
   default: now
+pages:
+- content/posts/bygg-en-statisk-blogg-del-1.md
