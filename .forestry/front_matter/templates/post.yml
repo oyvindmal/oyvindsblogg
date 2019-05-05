@@ -26,6 +26,7 @@ fields:
   label: Date
   default: now
 pages:
+- content/posts/bygg-en-statisk-blogg-del-3.md
 - content/posts/bygg-en-statisk-blogg-del-4.md
 - content/posts/bygg-en-statisk-blogg-del-2.md
 - content/posts/bygg-en-statisk-blogg-del-1.md
