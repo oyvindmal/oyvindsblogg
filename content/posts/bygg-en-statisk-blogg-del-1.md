@@ -10,3 +10,9 @@ Denne bloggen er basert på Hugo
 Jeg kommer ikke til å gå igjennom hvordan man installerer Hugo og Go, da dette varierer fra maskin til maskin. Det finnes en god guide på dette [her](https://gohugo.io/getting-started/installing/)
 
 ## Opprette nettsiden
+
+## Opprette tema
+
+Det finnes mange [ferdige temaer](https://themes.gohugo.io/) du kan bruke eller ta utangspunkt i
+
+## Konfigurasjonsendringer
