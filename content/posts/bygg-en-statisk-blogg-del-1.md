@@ -17,9 +17,9 @@ Det finnes mange [ferdige temaer](https://themes.gohugo.io/) du kan bruke eller 
 
 ## Konfigurasjonsendringer
 
-{{< highlight go "linenos=table,hl_lines=8 15-17,linenostart=1" >}}
+{{< highlight toml "linenos=table, linenostart=1" >}}
 
-baseURL = "[https://blogg.oyvindmal.no/](https://blogg.oyvindmal.no/ "https://blogg.oyvindmal.no/")"
+baseURL = "https://blogg.oyvindmal.no/"
 
 languageCode = "en-us"
 
