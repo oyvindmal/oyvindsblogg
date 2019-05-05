@@ -11,7 +11,7 @@ Jeg kommer ikke til å gå igjennom hvordan man installerer Hugo og Go, da dette
 
 blabla bla markdown
 
-blabla bla forestry github
+I senere deler av denne guiden skal jeg gå igjennom hvordan man kan knytte denne opp mot [Forestry.io](https://www.forestry.io) for å få et redigeringsgrensesnitt i nettleseren.
 
 ## Opprette nettsiden
 
@@ -54,8 +54,7 @@ blabla partials
 
 Archetyper er rett og slett definisjoner av hvordan en bestemt type innhold skal genereres. Denne inneholder all data du ønsker at skal predefineres
 
-{{< highlight markdown "linenos=table, linenostart=1" >}}
--
+## {{< highlight markdown "linenos=table, linenostart=1" >}}
 
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
@@ -76,3 +75,9 @@ hugo new posts/min-nye-post.md
 {{< / highlight >}}
 
 ## Statiske filer
+
+Blabla mapper
+
+blabla både på tema og selve siden
+
+blablabla filbane
