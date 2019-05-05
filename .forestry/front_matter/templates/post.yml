@@ -26,4 +26,4 @@ fields:
   label: Date
   default: now
 pages:
-- content/posts/google-lås-opp-ytterdøra.md
+- content/10-tips-for-feilsøking.md
