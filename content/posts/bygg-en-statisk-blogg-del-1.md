@@ -10,7 +10,7 @@ Denne bloggen er basert på Hugo
 Jeg kommer ikke til å gå igjennom hvordan man installerer Hugo og Go, da dette varierer fra maskin til maskin. Det finnes en god guide på dette [her](https://gohugo.io/getting-started/installing/)
 
 ## Opprette nettsiden
-{{< highlight Bash "linenos=table, linenostart=1" >}}
+{{< highlight Bash >}}
 hugo new site <Ditt navn>
 {{< / highlight >}}
 ## Opprette tema
