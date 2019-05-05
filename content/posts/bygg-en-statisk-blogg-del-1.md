@@ -42,6 +42,14 @@ theme = "blogg"
 
 ## Temaets oppbygging
 
+blabla mappenavn
+
+blabla lookup
+
+blabla baseof
+
+blabla partials
+
 ## Archetypes
 
 Archetyper er rett og slett definisjoner av hvordan en bestemt type innhold skal genereres. Denne inneholder all data du ønsker at skal predefineres
