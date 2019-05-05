@@ -17,14 +17,9 @@ Det finnes mange [ferdige temaer](https://themes.gohugo.io/) du kan bruke eller 
 
 ## Konfigurasjonsendringer
 
-{{< highlight toml "linenos=table, linenostart=1" >}}
-
-baseURL = "https://blogg.oyvindmal.no/"
-
-languageCode = "en-us"
-
-title = "blogg.oyvindmal.no"
-
-theme = "blogg"
-
+{{< highlight toml "linenos=table, linenostart=1" >}}  
+baseURL = "https://blogg.oyvindmal.no/"  
+languageCode = "en-us"  
+title = "blogg.oyvindmal.no"  
+theme = "blogg"  
 {{< / highlight >}}
