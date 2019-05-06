@@ -26,6 +26,7 @@ fields:
   label: Date
   default: now
 pages:
+- content/posts/asset-management.md
 - content/posts/bygg-en-statisk-blogg-del-1.md
 - content/posts/bygg-en-statisk-blogg-del-6.md
 - content/posts/bygg-en-statisk-blogg-del-3-5.md
