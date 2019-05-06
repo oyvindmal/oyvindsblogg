@@ -97,3 +97,19 @@ blabla både på tema og selve siden
 blablabla filbane
 
 ## Bygging og forhåndsvisning
+
+blabla utviklingsserver
+
+{{< highlight Bash >}}
+
+hugo server -D
+
+{{< / highlight >}}
+
+blabla bygg for produksjon
+
+{{< highlight Bash >}}
+
+hugo
+
+{{< / highlight >}}
