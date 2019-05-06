@@ -95,3 +95,5 @@ Blabla mapper
 blabla både på tema og selve siden
 
 blablabla filbane
+
+## Bygging og forhåndsvisning
