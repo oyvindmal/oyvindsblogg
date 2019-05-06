@@ -69,14 +69,14 @@ blabla partials
 Archetyper er rett og slett definisjoner av hvordan en bestemt type innhold skal genereres. Denne inneholder all data du ønsker at skal predefineres. Jeg har laget en archetype for bloggposter som jeg har kalt posts. Mesteparten av dette er hentet fra eksemplet som finnes i dokumentasjonen til Hugo.
 
 {{< highlight markdown "linenos=table, linenostart=1" >}}
-
+---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 summary: "Lorem ipsum"
 frontimage: "http://placekitten.com/800/800"
 
-***
+---
 
 {{< / highlight >}}
 
